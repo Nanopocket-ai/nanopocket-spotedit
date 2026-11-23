@@ -24,7 +24,7 @@ Asked an AI for one small fix and got back a slightly different photo? General i
 - Say what you imagine: remove people, change outfits, replace objects, add new ones, rewrite a sign
 - Edit again and again without drift, because each edit leaves the rest alone
 - Lossless PNG out; colour profile and EXIF kept
-- From 30 credits per edit, failed edits are free, 100 free credits for new accounts, no subscription
+- From 40 credits per edit, failed edits are free, 100 free credits for new accounts, no subscription
 
 ## 🚀 Try it now
 
